@@ -334,3 +334,6 @@ footer {
         color: #000;
         text-decoration: none;
     }
+.icon-link:link {
+    color:white;
+}
