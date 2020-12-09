@@ -334,6 +334,6 @@ footer {
         color: #000;
         text-decoration: none;
     }
-a:link {
-    color:white;
+.fab, .fa {
+    color: white;
 }
